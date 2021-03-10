@@ -3,7 +3,18 @@
 
 ## What is Dataverse?
 
-According to the [documentation](https://docs.microsoft.com/en-us/powerapps/maker/data-platform/data-platform-intro?WT.mc_id=github-0000-ninarasi)
+According to the [documentation](https://docs.microsoft.com/en-us/powerapps/maker/data-platform/data-platform-intro?WT.mc_id=github-0000-ninarasi) _Dataverse_ is the new name for what used to be the "Common Data Service" or CDS. Think of Dataverse as a data service subsystem for Power Platform that lets you:
+
+ * store and manage data _securely_ as a set of `tables`
+ * where 
+    - each table is a set of `rows` and `columns`
+    - each column stores a specific `type` of data
+    - data can be populated using [Power Query](https://support.microsoft.com/en-us/office/power-query-overview-and-learning-ed614c81-4b00-4291-bd3a-55d80767f81d?ui=en-us&rs=en-us&ad=us&WT.mc_id=github-0000-ninarasi)
+ * such that
+    - tables can be created with custom schema
+    - apps can be built using that data over a unified interface
+
+A key advantage of Dataverse is that it can integrate multiple data sources into a single data store that is exposed to Power Apps, Power Automate, Power BI or Power Virtual Agents for use.
 
 
 ## Articles

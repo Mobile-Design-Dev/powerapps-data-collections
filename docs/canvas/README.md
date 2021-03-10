@@ -7,6 +7,7 @@
 
 This section will link to related posts on this site, in chronological order.
 
+ * Mar 10, 2021 | [Getting Started With Power Apps](/canvas/get-started)
 
 
 ## Relevant Reading
