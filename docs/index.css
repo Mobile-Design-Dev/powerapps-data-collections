@@ -1,0 +1,17 @@
+
+:root {
+    
+    /* 
+     * See Customizable Theme Elements
+     * https://jhildenbiddle.github.io/docsify-themeable/#/customization
+    */
+
+    --base-font-size: 14px;                     /* Reduce the font size */
+    --theme-hue: 325;                           /* Change the theme color hue */
+    --sidebar-nav-link-before-content: ' ';     /* Change the sidebar bullets */
+
+    /* docsify-tabs: https://jhildenbiddle.github.io/docsify-tabs/#/?id=installation */
+    --docsifytabs-border-color: #ededed;
+    --docsifytabs-tab-highlight-color: purple;
+
+}
