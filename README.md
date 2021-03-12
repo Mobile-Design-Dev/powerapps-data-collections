@@ -16,4 +16,4 @@ Join me on my learning journey!
 
 ## Docsify + GitHub Pages
 
-I documented my learning journey in the [docs](docs) directory, using the [docsify](https://docsify.js.org/#/) generator to create a  static site hosted on GitHub pages at [MobileDesignDev.github.io/powerapps-learn](https://MobileDesignDev.github.io/powerapps-learn)
+I documented my learning journey in the [docs](docs) directory, using the [docsify](https://docsify.js.org/#/) generator to create a  static site hosted on GitHub pages at [powerapps.](https://MobileDesignDev.github.io/powerapps-learn)

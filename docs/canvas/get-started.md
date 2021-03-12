@@ -6,7 +6,7 @@ This article summarizes my learnings from completing the [Get Started With Power
 
 Below is the sketchnote summary of the entire module! Take a quick look before we dive in. I'll wait! You can also save the image to your local drive, or print it out, to get a hi-res version (4K) as a handy reference for future review.
 
-I'll capture my learnings below, but if you want to get an interactive hands-on tutorial for this, I recommend [this session](https://channel9.msdn.com/Shows/Learn-Live/Learn-Live--Ignite-Get-started-with-Power-Apps?) that was recently recorded for the #LearnLive series at Microsoft Ignite.
+I'll capture my learnings below, but if you want to get an interactive hands-on tutorial for this, I recommend [this session](https://channel9.msdn.com/Shows/Learn-Live/Learn-Live--Ignite-Get-started-with-Power-Apps?WT.mc_id=mobile-18099-ninarasi) that was recently recorded for the #LearnLive series at Microsoft Ignite.
 
 ![Sketchnote Summary of the 'Getting Started With Power Apps' Module](https://cloud-skills.dev/gallery/PowerApps-1-GettingStarted.png)
 
